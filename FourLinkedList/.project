@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>eecs2011a1</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/FourListUnitTester.java</name>
+			<type>1</type>
+			<location>C:/Users/shenx/Desktop/W22_A1sol_unit_tester/A1_W22_FourLinkedList_MODEL/src/FourListUnitTester.java</location>
+		</link>
+		<link>
+			<name>src/UT3.java</name>
+			<type>1</type>
+			<location>C:/Users/shenx/Desktop/W22_A1sol_unit_tester/A1_W22_FourLinkedList_MODEL/src/UT3.java</location>
+		</link>
+		<link>
+			<name>src/UnitTesterDEMO.java</name>
+			<type>1</type>
+			<location>C:/Users/shenx/Desktop/W22_A1sol_unit_tester/A1_W22_FourLinkedList_MODEL/src/UnitTesterDEMO.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>

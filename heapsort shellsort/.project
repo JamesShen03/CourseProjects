@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>eecs2011a2</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/A2Tester.java</name>
+			<type>1</type>
+			<location>C:/Users/shenx/Downloads/W22_A2sol_unit_tester/A2_W22_heapSort_ShellSort_MODEL/src/A2Tester.java</location>
+		</link>
+		<link>
+			<name>src/Part2.java</name>
+			<type>1</type>
+			<location>C:/Users/shenx/eclipse-workspace/eecs2011a2/src/Part2.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
